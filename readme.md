@@ -11,4 +11,7 @@ CRUD API is API which we can create, read, write, and delete data.
 
 วิดีโอสอนการทำ CRUD API ด้วย Golang https://www.youtube.com/watch?v=gIe543ufGmE
 
+Using Gorilla/mux for managing requests router. https://pkg.go.dev/github.com/gorilla/mux
+``` go get -u github.com/gorilla/mux ```
+
 Credit: BorntoDev
